@@ -1,8 +1,8 @@
-Bùi Thành Đạt
+\# Bùi Thành Đạt
 
 
 
-Giới thiệu ngắn: sinh viên năm 3 đại học TROY university
+\*\*Giới thiệu:\*\* Sinh viên năm 3 tại \*\*TROY University\*\*, định hướng phát triển kiến thức và kỹ năng trong lĩnh vực Công nghệ Thông tin.
 
 
 
@@ -10,9 +10,11 @@ Giới thiệu ngắn: sinh viên năm 3 đại học TROY university
 
 
 
-\- hoàn thành bootcamp 6 tháng
+\* \*\*Hoàn thành Bootcamp 6 tháng:\*\* Hoàn thành đầy đủ chương trình học, củng cố kiến thức nền tảng và nâng cao kỹ năng lập trình.
 
-\- kiếm việc làm
+\* \*\*Tìm kiếm việc làm:\*\* Chuẩn bị CV, xây dựng portfolio và chủ động tìm kiếm cơ hội thực tập hoặc việc làm phù hợp với chuyên ngành.
 
-\- chạy 21K
+\* \*\*Chạy 21K:\*\* Xây dựng kế hoạch tập luyện đều đặn, cải thiện sức bền và hoàn thành cự ly \*\*21 km\*\*.
+
+
 
