@@ -21,6 +21,14 @@ PS C:\Users\DUNGTRANG COMPUTER> git --version
 git version 2.39.0.windows.2
 PS C:\Users\DUNGTRANG COMPUTER>
 
+## MySQL
+PS C:\Users\DUNGTRANG COMPUTER> mysql --version
+C:\Program Files\MySQL\MySQL Server 8.0\bin\mysql.exe  Ver 8.0.45 for Win64 on x86_64 (MySQL Community Server - GPL)
+PS C:\Users\DUNGTRANG COMPUTER> Get-Service | Where-Object { $_.Name -like "*MySQL*" }
+
+Status   Name               DisplayName
+------   ----               -----------
+Running  MySQL80            MySQL80
 
 
 
